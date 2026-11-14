@@ -8,7 +8,7 @@ Mes projets les plus importants réalisés en L2 et en L3 en informatique sont r
 ## Outils et Langages
 
 - **Langages** : Python, C/C++, SQL, Java, OCaml, Assembleur MIPS; En apprentissage durant mon M1: R, VBA
-- **Outils** : Excel, LaTeX, Git, nvironnement Unix/Linux
+- **Outils** : Excel, LaTeX, Git, environnement Unix/Linux
 
 ## Contact
 
